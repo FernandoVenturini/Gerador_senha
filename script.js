@@ -14,7 +14,7 @@ let password = document.querySelector('#password');
 let containerPassword = document.querySelector('#container-password');
 
 // Numeros e letras e simbolos que serão gerados quando clicado no botão "Gerar Senha".
-let charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789*?!@#";
+let charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789*?!@#.:";
 
 // Nova senha.
 let novaSenha = '';
